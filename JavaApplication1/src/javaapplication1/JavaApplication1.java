@@ -17,7 +17,6 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         System.out.println("PRUEBA2");
         System.out.println("Prueba");
-        System.out.println("OSCAR");
     }
           
 }
